@@ -12,3 +12,4 @@ if (registerForm) {
         document.getElementById("message").innerText = "Cadastro Realizado!";
     });
 }
+const loginForm = document.getElementById
